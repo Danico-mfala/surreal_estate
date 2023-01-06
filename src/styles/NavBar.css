@@ -8,3 +8,26 @@
     max-width: 180px;
     margin-right: 2em;
 }
+.navbar-links {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navbar-links-link {
+    text-decoration: none;
+}
+
+.navbar-links-link:visited {
+    color: black;
+}
+
+.navbar-links-item {
+    padding-right: 2em;
+}
+
+.navbar-links-item:last-of-type {
+    padding-right: 0;
+}
