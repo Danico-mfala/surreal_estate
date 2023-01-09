@@ -1,0 +1,23 @@
+.add-property {
+    padding: 2em;
+}
+
+.add-property-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 340px;
+}
+
+.add-property-form__input,
+.add-property-form__select {
+    margin-left: 1em;
+}
+
+.add-property-form__element {
+    margin-bottom: 1em;
+}
+
+.add-property-form__button {
+    width: 120px;
+    margin: 0 auto;
+}

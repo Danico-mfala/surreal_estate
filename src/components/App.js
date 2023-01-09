@@ -6,6 +6,8 @@ import Properties from "./Properties";
 import AddProperty from "./AddProperty";
 
 import "../styles/App.css";
+import "../styles/properties.css";
+import "../styles/add-property.css";
 
 function App() {
   return (
